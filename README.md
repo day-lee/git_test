@@ -3,4 +3,4 @@
 
 merge conflic를 해결해보자 remote에서 작성
 git reset 을 해보자
-git revert 를 해보자22 
+git revert 를 해보자 
